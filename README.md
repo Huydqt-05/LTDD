@@ -6,8 +6,6 @@
 
 	•	Có khả năng xây dựng và tối ưu một ứng dụng di động hoàn chỉnh.
 
-	•	Nếu bạn đang học một môn liên quan đến lập trình di động, có thể hướng đến phát triển một ứng dụng thực tế hoặc tham gia vào các dự án chuyên nghiệp.
-
 3.	Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
    
 	•	Chắc chắn là có.
